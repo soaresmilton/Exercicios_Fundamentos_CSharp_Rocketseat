@@ -1,0 +1,14 @@
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.AssemblyInfoInputs.cache
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.AssemblyInfo.cs
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.csproj.CoreCompileInputs.cache
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\bin\Debug\net8.0\DesafioPratico01.exe
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\bin\Debug\net8.0\DesafioPratico01.deps.json
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\bin\Debug\net8.0\DesafioPratico01.runtimeconfig.json
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\bin\Debug\net8.0\DesafioPratico01.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\bin\Debug\net8.0\DesafioPratico01.pdb
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\refint\DesafioPratico01.dll
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.pdb
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\DesafioPratico01.genruntimeconfig.cache
+C:\Users\VX221VS\OneDrive - EY\Documents\Milton Soares\002 - Learning\004 - Rocketseat\001 - C sharp\001 - Modulo de Fundamentos\DesafioPratico01\DesafioPratico01\obj\Debug\net8.0\ref\DesafioPratico01.dll
